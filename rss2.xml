@@ -14,8 +14,8 @@
     
     <item>
       <title>OSI 7 계층</title>
-      <link>https://sshworld.github.io/2021/12/22/The-OSI-7-Layers/</link>
-      <guid>https://sshworld.github.io/2021/12/22/The-OSI-7-Layers/</guid>
+      <link>https://sshworld.github.io/network/The-OSI-7-Layers/</link>
+      <guid>https://sshworld.github.io/network/The-OSI-7-Layers/</guid>
       <pubDate>Wed, 22 Dec 2021 06:03:24 GMT</pubDate>
       
         
@@ -44,14 +44,14 @@
       <category domain="https://sshworld.github.io/tags/tcp-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C/">tcp 프로토콜</category>
       
       
-      <comments>https://sshworld.github.io/2021/12/22/The-OSI-7-Layers/#disqus_thread</comments>
+      <comments>https://sshworld.github.io/network/The-OSI-7-Layers/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>소켓통신(Socket Communication)이란?</title>
-      <link>https://sshworld.github.io/2021/12/21/socket-communication/</link>
-      <guid>https://sshworld.github.io/2021/12/21/socket-communication/</guid>
+      <link>https://sshworld.github.io/network/socket-communication/</link>
+      <guid>https://sshworld.github.io/network/socket-communication/</guid>
       <pubDate>Tue, 21 Dec 2021 09:04:58 GMT</pubDate>
       
         
@@ -72,14 +72,14 @@
       <category domain="https://sshworld.github.io/tags/socket/">socket</category>
       
       
-      <comments>https://sshworld.github.io/2021/12/21/socket-communication/#disqus_thread</comments>
+      <comments>https://sshworld.github.io/network/socket-communication/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>소켓(Socket)이란?</title>
-      <link>https://sshworld.github.io/2021/12/21/socket/</link>
-      <guid>https://sshworld.github.io/2021/12/21/socket/</guid>
+      <link>https://sshworld.github.io/network/socket/</link>
+      <guid>https://sshworld.github.io/network/socket/</guid>
       <pubDate>Tue, 21 Dec 2021 07:05:57 GMT</pubDate>
       
         
@@ -100,7 +100,7 @@
       <category domain="https://sshworld.github.io/tags/socket/">socket</category>
       
       
-      <comments>https://sshworld.github.io/2021/12/21/socket/#disqus_thread</comments>
+      <comments>https://sshworld.github.io/network/socket/#disqus_thread</comments>
       
     </item>
     

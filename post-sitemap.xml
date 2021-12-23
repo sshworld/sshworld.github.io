@@ -9,7 +9,7 @@
 
 
     <url>
-        <loc>https://sshworld.github.io/2021/12/22/The-OSI-7-Layers/</loc>
+        <loc>https://sshworld.github.io/network/The-OSI-7-Layers/</loc>
         <lastmod>2021-12-22T08:27:56.490Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +17,7 @@
     </url>
 
     <url>
-        <loc>https://sshworld.github.io/2021/12/21/socket-communication/</loc>
+        <loc>https://sshworld.github.io/network/socket-communication/</loc>
         <lastmod>2021-12-21T10:05:00.708Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>https://sshworld.github.io/2021/12/21/socket/</loc>
+        <loc>https://sshworld.github.io/network/socket/</loc>
         <lastmod>2021-12-21T09:03:41.756Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
