@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://sshworld.github.io/network/TCP-IP-Layers/</loc>
+        <lastmod>2022-01-02T07:33:33.328Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://sshworld.github.io/network/The-OSI-7-Layers/</loc>
         <lastmod>2021-12-22T08:27:56.490Z</lastmod>
         <changefreq>weekly</changefreq>
